@@ -4,7 +4,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes.auth import router as auth_router
-from app.api.routes.dev_google_test import router as dev_google_test_router
+from app.api.routes.dev_google import router as dev_google_test_router
 from app.core.config import settings
 from app.core.database import supabase_admin
 
