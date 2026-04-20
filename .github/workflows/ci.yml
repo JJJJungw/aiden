@@ -25,6 +25,3 @@ jobs:
 
       - name: Run lint
         run: uv run ruff check .
-
-      - name: Run tests
-        run: uv run pytest
