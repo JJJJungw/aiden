@@ -14,3 +14,5 @@ class User:
     google_sub: str | None
     created_at: datetime
     updated_at: datetime
+
+ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
