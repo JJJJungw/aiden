@@ -5,7 +5,7 @@ from app.core.config import settings
 
 router = APIRouter(tags=["Dev Test"])
 
-ㄴㄴㄴㄴㄴ
+#ㄴㄴㄴㄴㄴ
 @router.get("/dev/google-test", response_class=HTMLResponse)
 async def google_test_page() -> str:
     return f"""

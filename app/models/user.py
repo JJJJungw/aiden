@@ -15,4 +15,4 @@ class User:
     created_at: datetime
     updated_at: datetime
 
-ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
+#ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
